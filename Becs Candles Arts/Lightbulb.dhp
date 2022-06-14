@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfAnyType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <anyType xsi:type="PData">
+    <Lines>
+      <PointF>
+        <X>0.296</X>
+        <Y>0.528</Y>
+      </PointF>
+      <PointF>
+        <X>0.272</X>
+        <Y>0.552</Y>
+      </PointF>
+      <PointF>
+        <X>0.288</X>
+        <Y>0.6</Y>
+      </PointF>
+      <PointF>
+        <X>0.304</X>
+        <Y>0.616</Y>
+      </PointF>
+      <PointF>
+        <X>0.3205144</X>
+        <Y>0.63251436</Y>
+      </PointF>
+      <PointF>
+        <X>0.352</X>
+        <Y>0.56</Y>
+      </PointF>
+      <PointF>
+        <X>0.328</X>
+        <Y>0.528</Y>
+      </PointF>
+      <PointF>
+        <X>0.32</X>
+        <Y>0.528</Y>
+      </PointF>
+      <PointF>
+        <X>0.30400002</X>
+        <Y>0.528</Y>
+      </PointF>
+      <PointF>
+        <X>0.296</X>
+        <Y>0.528</Y>
+      </PointF>
+    </Lines>
+    <LineType>2</LineType>
+    <ClosedType>false</ClosedType>
+    <IsLarge>false</IsLarge>
+    <RevSweep>false</RevSweep>
+    <Alias />
+    <SolidFill>false</SolidFill>
+    <LoopBack>false</LoopBack>
+  </anyType>
+  <anyType xsi:type="PData">
+    <Lines>
+      <PointF>
+        <X>0.296</X>
+        <Y>0.528</Y>
+      </PointF>
+      <PointF>
+        <X>0.328</X>
+        <Y>0.528</Y>
+      </PointF>
+      <PointF>
+        <X>0.328</X>
+        <Y>0.504</Y>
+      </PointF>
+      <PointF>
+        <X>0.296</X>
+        <Y>0.504</Y>
+      </PointF>
+      <PointF>
+        <X>0.296</X>
+        <Y>0.528</Y>
+      </PointF>
+    </Lines>
+    <LineType>0</LineType>
+    <ClosedType>false</ClosedType>
+    <IsLarge>false</IsLarge>
+    <RevSweep>false</RevSweep>
+    <Alias />
+    <Meta>Lightbulb</Meta>
+    <SolidFill>false</SolidFill>
+    <LoopBack>false</LoopBack>
+  </anyType>
+</ArrayOfAnyType>
